@@ -16,7 +16,7 @@
 <br />
 <br />
 
-## **Linguagens e Ferramentas:**
+## **Language and Tools:**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"/></code>
@@ -34,6 +34,6 @@ Languages & Technologies: `Scala`, `Akka Streams`, `Akka Http`, `Docker`, `K8s`,
 
 <br>
 
-#### Contatos
+#### Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giacomo-magri-7946ab191/)](https://www.linkedin.com/in/giacomo-magri-7946ab191/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:giacomomagri22@gmail.com)](mailto:giacomomagri22@gmail.com)
